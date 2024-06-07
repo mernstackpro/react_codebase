@@ -15,7 +15,12 @@ The primary objective of this project is to develop a highly automated, feature-
 
 ## Technology Stack
 - Developed in React JS 18.2,  NodeJS 16.15
-- WooCommerce 
+- WooCommerce API Integration in ReactJS
+- JWT Authentication for APIs
+- Packages and libraries used
+- Typescript: Type safety for JavaScript
+- Redux toolkit: State management library
+- React infinite scroll component
 
 ## Getting Started
 - Cross-platform web application compatible for Windows, MacOS
